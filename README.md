@@ -23,5 +23,14 @@
   <h2>Check out these stuff down below ⬇️</h2>
   <a href="https://bit.ly/NT-Color-Shop" target="_blank">
   <a href="https://bit.ly/Tornado-Donations" target="_blank">
+<div align="center">
+  <h2>Contact</h2>
+    <img src="./images/linkedin_sm.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+    <img src="./images/stackoverflow_sm.png" alt="StackOverflow"/>
+  </a>
   <br><br>
+</div>
+    <br><br>
 </div>
